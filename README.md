@@ -4,7 +4,7 @@
 Muskan655/Muskan655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](https://github.com/Muskan655/Muskan655/blob/main/dark-wallpapers.avif)
+![logo](https://github.com/Muskan655/Muskan655/blob/main/img34.jpg)
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
