@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan655&label=Profile%20views&color=0e75b6&style=flat" alt="muskan655" /> </p>
-<h6>-👀I’m interested in Web development,AI,Machine Learning</h6>
-<h6>-🌱I’m currently learning Web development,DSA,Competitive programming</h6>
+<h4>-👀I’m interested in Web development,AI,Machine Learning</h4>
+<h4>-🌱I’m currently learning Web development,DSA,Competitive programming</h4>
 
 
 <p align="left">
